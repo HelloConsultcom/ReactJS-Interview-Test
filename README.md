@@ -2,16 +2,25 @@
 
 ## Goal
 
-The goal is to build a react app using [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com/).
-This app will return Gif results from the [Giphy API](https://developers.giphy.com/).
+L'objectif est de créer une app JS utilisant [React](https://reactjs.org/) et [Bootstrap](https://getbootstrap.com/).
+L'app utilise l'[API Giphy](https://developers.giphy.com/).
 
-## Description
+## Fonctionnement
 
-The app should have two main screens : 
-- One with an input and a grid displaying the fetched list of gifs corresponding to the input query.
-- One showing the clicked gif in fullscreen with its name.
+L'utilisateur de l'app doit pouvoir taper du texte dans un input et voir une liste de gifs en live correspondant à sa recherche. Il peut mettre en favoris un gif (bouton étoile) ou le voir en fullscreen en cliquant dessus.
+La liste de favoris est sauvegardée en local.
+
+## Ecrans
+
+L'app a trois écrans :
+- Un avec le search input et les gifs résultats sous l'input sous forme de grid. Les gifs sont ajoutables en favoris de cette vue.
+- Un montrant le gif en plein ecran, avec son nom et permettant également de le mettre en favoris.
+- Un affichant la liste des gifs mis en favoris.
+
 
 ## Build instructions
 
 Free to use anything you want.
 We recommend using [create-react-app](https://github.com/facebook/create-react-app) though.
+
+**Happy Coding !**
