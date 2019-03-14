@@ -13,7 +13,7 @@ La liste de favoris est sauvegardée en local.
 ## Ecrans
 
 L'app a trois écrans :
-- Un avec le search input et les gifs résultats sous l'input sous forme de grid. Les gifs sont ajoutables en favoris de cette vue.
+- Un avec le search input et les gifs résultats sous l'input sous forme de grid. Les gifs sont ajoutables en favoris à partir de cette vue.
 - Un montrant le gif en plein ecran, avec son nom et permettant également de le mettre en favoris.
 - Un affichant la liste des gifs mis en favoris.
 
